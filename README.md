@@ -14,6 +14,8 @@ The App can manipulate products in the cart adding/removing your quantity.
 ## ⚡ Techs
 
 * [React] - JavaScript library for building user interfaces.
+* [AsyncStorage] - An asynchronous, unencrypted, persistent, key-value storage system for React Native.
+* [ReactNavigation] - Made up of some core utilities and those are then used by navigators. 
 * [Axios] - Promise based HTTP client for the browser and node.js
 * [Typescript] - typed superset of JavaScript that compiles to plain JavaScript.
 * [Styled-components] - Visual primitives for the component age.
@@ -97,6 +99,8 @@ src/__tests__/pages/Cart.spec.tsx
 
 
 [react]: <https://reactjs.org/>
+[AsyncStorage]: <https://github.com/react-native-community/async-storage>
+[reactNavigation]: <https://reactnavigation.org/>
 [axios]: <https://www.npmjs.com/package/axios>
 [typescript]: <https://www.typescriptlang.org/>
 [styled-components]: <npmjs.com/package/styled-components>
